@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Student Paging System</string>
+    <array name="Name_Options">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+    </array>
+
+    <array name="Options_Class">
+        <item>TR1</item>
+        <item>TR4</item>
+        <item>TR5</item>
+        <item>TR7</item>
+        <item>TR9</item>
+    </array>
+
+    <array name="Options_Dorm">
+        <item>Aqua</item>
+        <item>Ignis</item>
+        <item>Terra</item>
+        <item>Ray</item>
+        <item>Ventus</item>
+    </array>
+
+    <array name="Options_Gender">
+        <item>Male</item>
+        <item>Female</item>
+    </array>
+
+
+</resources>
